@@ -1,0 +1,3 @@
+&lt; para escrever o < em texto
+&gt; para escrever o < em texto.
+ctrl + shift + p = envelopa.
